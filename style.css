@@ -1,0 +1,28 @@
+*{
+    font-family:Verdana, "Times New Roman", sans-serif;
+    background-color: aqua;
+}
+
+#cover-pic{
+    text-align: center;
+}
+.pic{
+    height: auto;
+    width: 300px;
+    margin-top: 10px
+}
+
+.name{
+    text-align: center;
+}
+.menu-list{
+    text-align: center;
+    margin-top: 10px;
+}
+.menu{
+    display: inline-block;
+    text-align: left;
+}
+.return{
+    text-align: left;
+}
